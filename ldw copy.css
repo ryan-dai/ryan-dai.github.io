@@ -1,0 +1,94 @@
+html, body 
+{
+	margin:0 auto;
+	padding:0;
+	width:720px;
+	height:100%;
+	float:center;
+}
+#container
+{
+   	min-height:100%;
+	width:720px;
+   	position:relative;
+	float:center;
+}
+#header 
+{
+	padding:0;
+	width: 720px; height: 128px;
+   	position:relative;
+	float:center;
+}
+#content
+{
+   padding:10px;
+}
+
+h1
+{
+	font-family: Optima, Helvetica, Arial, Sans-serif;
+	font-weight: lighter;
+	font-size: 24px;
+	color:#CC8214;
+}
+
+h2
+{
+	font-family: Garamond, Palatino, "Times New Roman", serif;
+	font-weight: normal;
+	font-size: 20px;
+	color:#767676;
+}
+
+p
+{	
+	font-family: Helvetica, Arial, Sans-Serif;
+	font-weight: normal; font-size: 16px;
+	color:#333333;
+	line-height:150%;
+}
+
+ul
+{
+	list-style-type:none; 
+	margin:0; padding:0; overflow:hidden;
+	font-family: Optima, Helvetica, Sans-serif; font-size: 16px;
+}
+
+li
+{
+	float:left;
+}
+
+div#header a:link, div#header a:visited
+{
+	display:block; width:96px;
+	color:#000000; background-color:rgba(232, 232, 224, 0.5); text-align:center;
+	padding:4px;
+	text-decoration:none;
+}
+div#header a:hover, div#header a:active
+{
+	color:#FFFFFF;
+	background-color:#767676;
+}
+
+div#content a:link, div#content a:visited
+{
+	color:#155F83;
+	text-decoration:none;
+	font-style:italic;
+}
+div#content a:hover, div#content a:active
+{
+	color:#800000;
+	text-decoration:underline;
+	background-color:#D6D6CE;
+}
+
+.shadow
+{
+	box-shadow: 6px 6px 3px #CCCCCC;
+}
+
