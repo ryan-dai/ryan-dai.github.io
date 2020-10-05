@@ -106,7 +106,7 @@ ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fields
  .fancybox-skin { background: transparent !important; -webkit-box-shadow: none !important; -moz-box-shadow: none !important; box-shadow: none !important; }
  .fancybox-title { color: #ffffff; font-family: 'STKaiti', serif; font-size: 15px; font-weight: normal; line-height: normal; }
  .fancybox-close, .fancybox-next span, .fancybox-prev span { background: none !important; width: auto; height: auto; }
- .fancybox-close:before, .fancybox-next span:before, .fancybox-prev span:before { color: #ffffff !important; font-family: 'STKaiti', Quattrocento, serif; font-size: 50px; font-weight: normal; line-height: 0.5em; -webkit-transition: all 300ms ease; -moz-transition: all 300ms ease; -ms-transition: all 300ms ease; -o-transition: all 300ms ease; transition: all 300ms ease; }
+ .fancybox-close:before, .fancybox-next span:before, .fancybox-prev span:before { color: #ffffff !important; font-family: 'STKaiti', Comic, serif; font-size: 50px; font-weight: normal; line-height: 0.5em; -webkit-transition: all 300ms ease; -moz-transition: all 300ms ease; -ms-transition: all 300ms ease; -o-transition: all 300ms ease; transition: all 300ms ease; }
  .fancybox-close:hover:before, .fancybox-next:hover span:before, .fancybox-prev:hover span:before { color: #b9b9b9 !important; }
  .fancybox-prev span:before { content: '\3008'; }
  .fancybox-next span:before { content: '\3009'; }
