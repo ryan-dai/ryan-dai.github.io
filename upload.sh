@@ -1,5 +1,7 @@
 #! /bin/bash
 
+git fetch origin
+wait
 git add .
 wait
 git commit -m "first"
