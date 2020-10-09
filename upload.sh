@@ -1,6 +1,6 @@
 #! /bin/bash
 
-git fetch origin
+git pull origin master --rebase
 wait
 git add .
 wait
