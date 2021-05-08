@@ -1,4 +1,5 @@
 #! /bin/bash
+git add .
 wait
 git pull origin master --rebase
 wait
